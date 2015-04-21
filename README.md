@@ -3,7 +3,7 @@ A glance is a focused interface that you use to display your app’s most import
 
 To create a glance, you do not have to create a separate executable. Instead, you create a specialized set of objects inside your existing WatchKit app and WatchKit extension. In fact, the classes and techniques you use to implement a glance are the same ones you use to create your WatchKit app.
 
-The MIT License (MIT)
+###The MIT License (MIT)
 
 Copyright (c) 2015 <Kamal Hunzai>
 
