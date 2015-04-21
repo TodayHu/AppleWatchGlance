@@ -1,4 +1,6 @@
 # AppleWatchGlance
+
+###Glance Interfaces
 A glance is a focused interface that you use to display your app’s most important information. Glances are aptly named because they are intended to be looked at quickly by the user. Glances are nonscrolling; the entire glance interface must fit on a single screen. Glances are read-only and cannot contain buttons, switches, or other interactive controls. Tapping a glance launches your WatchKit app.
 
 To create a glance, you do not have to create a separate executable. Instead, you create a specialized set of objects inside your existing WatchKit app and WatchKit extension. In fact, the classes and techniques you use to implement a glance are the same ones you use to create your WatchKit app.
